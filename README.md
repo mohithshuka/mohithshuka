@@ -9,10 +9,7 @@
 (https://www.linkedin.com/in/mohith-shuka-9a8314291=false)<br/>
 (https://www.instagram.com/mohithshuka=falset)
 
-## 🏆 GitHub Trophies
-(https://github-profile-trophy.vercel.app/?username=MOHITHSHUKA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+##  Protfolio
+https://portfolio-v298.vercel.app
 
----
-(https://visitcount.itsvg.in/api?id=MOHITHSHUKA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
