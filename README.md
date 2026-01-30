@@ -1,7 +1,7 @@
 
 ##  Socials:
 [Instagram]=(https://instagram.com/Mohithshuka)
-[LinkedIn]=[(https://linkedin.com/in/Mohithshuka)]
+[LinkedIn]=[(https://www.linkedin.com/in/mohith-shuka-9a8314291)]
 [[email]]=(mohithshuka@gmail.com) 
 
 #  Tech Stack:
