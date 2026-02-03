@@ -1,4 +1,3 @@
-
 ##  Socials:
 [Instagram]=(https://instagram.com/Mohithshuka)
 [LinkedIn]=[(https://www.linkedin.com/in/mohith-shuka-9a8314291)]
