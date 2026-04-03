@@ -14,3 +14,9 @@
 https://portfolio-v298.vercel.app
 
 
+## 🏆 Certifications
+
+[![AWS Educate Cloud Computing 101](<img width="601" height="601" alt="aws-educate-introduction-to-cloud-101-training-badg" src="https://github.com/user-attachments/assets/64a82839-3ba1-4db1-b8d5-8461f475a96b" />
+)](https://www.credly.com/badges/f9b9c9fa-96d4-40dd-9d36-b3204c8fc043/public_url)
+
+- AWS Educate – Cloud Computing 101
