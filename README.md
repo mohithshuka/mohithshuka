@@ -7,10 +7,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# GitHub Stats:
-(https://github.com/mohithshuka=false)<br/>
-(https://www.linkedin.com/in/mohith-shuka-9a8314291=false)<br/>
-(https://www.instagram.com/mohithshuka=falset)
 
 ##  Protfolio
 https://portfolio-v298.vercel.app
