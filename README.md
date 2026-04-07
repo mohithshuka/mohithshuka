@@ -15,4 +15,4 @@ https://portfolio-v298.vercel.app
 ## 🏆 Certifications
 [![AWS Educate](https://img.shields.io/badge/AWS-Educate%20Cloud%20Computing%20101-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f9b9c9fa-96d4-40dd-9d36-b3204c8fc043/public_url)
 
-- AWS Educate – Cloud Computing 101
+- AWS Educate – Cloud Computing 101.
