@@ -16,3 +16,8 @@ https://portfolio-v298.vercel.app
 [![AWS Educate](https://img.shields.io/badge/AWS-Educate%20Cloud%20Computing%20101-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f9b9c9fa-96d4-40dd-9d36-b3204c8fc043/public_url)
 
 - AWS Educate – Cloud Computing 101
+
+  [![AWS Educate](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](https://www.credly.com/badges/e7f96dbe-4566-447a-9353-02b93ac874f4/public_url)
+
+  - AWS Educate – Machine Learning Foundations
+
