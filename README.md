@@ -17,7 +17,6 @@ https://portfolio-v298.vercel.app
 
 - AWS Educate – Cloud Computing 101
 
-  [![AWS Educate](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](https://www.credly.com/badges/e7f96dbe-4566-447a-9353-02b93ac874f4/public_url)
-
-  - AWS Educate – Machine Learning Foundations
+ [![AWS Educate](https://www.credly.com/badges/e7f96dbe-4566-447a-9353-02b93ac874f4/public_url)
+- AWS Educate – Machine Learning Foundations
 
