@@ -19,5 +19,5 @@ https://portfolio-v298.vercel.app
 
 [![AWS Educate](https://img.shields.io/badge/AWS-Educate%20Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e7f96dbe-4566-447a-9353-02b93ac874f4/public_url)
 
-- AWS Educate – Machine Learning 
+- AWS Educate – Machine Learning Foundations
 
